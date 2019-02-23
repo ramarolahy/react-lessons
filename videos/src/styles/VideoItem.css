@@ -1,0 +1,15 @@
+.item--video {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.item--video:hover {
+    background-color: rgb(198, 213, 218);
+}
+
+.content {
+    overflow: auto;
+}
